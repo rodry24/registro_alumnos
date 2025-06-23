@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "rodrigo",
+    "career": "MATEMATICA"
+  },
+  {
+    "id": 2,
+    "name": "jesus",
+    "career": "Ciencia de datos"
+  },
+  {
+    "id": 3,
+    "name": "test1",
+    "career": "Ciencia de datos"
+  },
+  {
+    "id": 4,
+    "name": "nn",
+    "career": "Ciencia de datos"
+  },
+  {
+    "id": 5,
+    "name": "rodry",
+    "career": "Ciencia de datos"
+  }
+]
