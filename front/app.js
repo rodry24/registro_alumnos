@@ -1,6 +1,6 @@
 const API_URL = "http://localhost:5001/api/students";
 const API_KEY = "12345ABCDEF";
-
+// prueba de comit
 // Headers comunes para todas las peticiones
 const headers = {
     "Content-Type": "application/json",
