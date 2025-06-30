@@ -28,5 +28,15 @@
     "id": 6,
     "name": "RODRI4",
     "career": "licenciatura en ciencia de datos"
+  },
+  {
+    "id": 7,
+    "name": "rodrigoprueba 1",
+    "career": "Ciencia de datos"
+  },
+  {
+    "id": 8,
+    "name": "rodri23",
+    "career": "test5"
   }
 ]
